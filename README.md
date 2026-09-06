@@ -31,11 +31,23 @@ Here are some of the visualizations generated during the analysis:
 
 ## 📁 Dataset
 
-The complete dataset used for this project is included in this repository:
+## 📊 Dataset Preview
 
-**Dataset:** `Dataset (1).csv`
+The project uses a restaurant dataset containing **9,551 records and 21 columns**.
 
-The dataset contains **9,551 restaurant records and 21 columns** covering restaurant names, cuisines, cities, pricing, ratings, votes, online delivery, and geographical information.
+Here is a small preview of the dataset:
+
+| Restaurant Name     | City      | Cuisines              | Average Cost for Two | Price Range | Aggregate Rating | Votes |
+| ------------------- | --------- | --------------------- | -------------------: | ----------: | ---------------: | ----: |
+| The Salt Restaurant | Abu Dhabi | Italian, European     |                   80 |           3 |              4.0 |   500 |
+| Cafe Coffee Day     | Bangalore | Cafe, Desserts        |                  500 |           2 |              3.6 |   250 |
+| Mainland China      | Bangalore | Chinese, Asian        |                 1500 |           4 |              4.2 |  1200 |
+| Barbeque Nation     | Hyderabad | North Indian, BBQ     |                 1600 |           4 |              4.5 |  2500 |
+| Paradise            | Hyderabad | Biryani, North Indian |                  800 |           3 |              4.1 |  1800 |
+
+> **Note:** This table is only a small preview. The complete dataset is available in `Dataset (1).csv`.
+
+
 
 ---
 
