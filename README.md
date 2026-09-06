@@ -15,7 +15,8 @@ Here are some of the visualizations generated during the analysis:
 
 ### 🔹 Price Range Analysis
 
-<img width="567" height="454" alt="analysis_3" src="https://github.com/user-attachments/assets/d278cead-35a0-4ddb-8d2a-c072b6a7a9cc" />
+<img width="581" height="454" alt="analysis_2" src="https://github.com/user-attachments/assets/969723da-9dfc-47ef-8118-c89b6c2b656d" />
+
 
 
 ### 🔹 Online Delivery Analysis
@@ -24,8 +25,7 @@ Here are some of the visualizations generated during the analysis:
 
 
 ### 🔹 Rating Analysis
-
-<img width="705" height="518" alt="analysis_5" src="https://github.com/user-attachments/assets/d9bc2243-e83c-415b-83f8-14310a109bc8" />
+C:\Users\Adnan\AppData\Local\Temp\dc9f9677-04a3-4355-a6a6-72caf8f13dc2_restaurant_project_readme_assets.zip.dc2\README_images\analysis_3.png
 
 
 ---
