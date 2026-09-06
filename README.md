@@ -45,7 +45,7 @@ Here is a small preview of the dataset:
 | Barbeque Nation     | Hyderabad | North Indian, BBQ     |                 1600 |           4 |              4.5 |  2500 |
 | Paradise            | Hyderabad | Biryani, North Indian |                  800 |           3 |              4.1 |  1800 |
 
-> **Note:** This table is only a small preview. The complete dataset is available in `Dataset (1).csv`.
+
 
 
 
