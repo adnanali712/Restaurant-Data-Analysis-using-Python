@@ -48,45 +48,7 @@ Here is a small preview of the dataset:
 
 
 
-# 🍽️ Restaurant Data Analysis using Python
 
-## 📌 Project Overview
-
-This project is a **Data Analysis project using Python** to explore and analyze a restaurant dataset containing information about restaurants, cuisines, locations, pricing, online delivery, ratings, and votes.
-
-The analysis focuses on identifying useful patterns and insights from the restaurant data using **Pandas, Matplotlib, and exploratory data analysis techniques**.
-
----
-
-## 📊 Dataset
-
-The dataset contains **9,551 restaurant records and 21 columns**.
-
-### Important Columns
-
-| Column                 | Description                                              |
-| ---------------------- | -------------------------------------------------------- |
-| `Restaurant ID`        | Unique ID of the restaurant                              |
-| `Restaurant Name`      | Name of the restaurant                                   |
-| `Country Code`         | Country identifier                                       |
-| `City`                 | City where the restaurant is located                     |
-| `Address`              | Restaurant address                                       |
-| `Locality`             | Restaurant locality                                      |
-| `Longitude`            | Geographic longitude                                     |
-| `Latitude`             | Geographic latitude                                      |
-| `Cuisines`             | Cuisine types offered                                    |
-| `Average Cost for two` | Average cost for two people                              |
-| `Currency`             | Currency used                                            |
-| `Has Table booking`    | Whether table booking is available                       |
-| `Has Online delivery`  | Whether online delivery is available                     |
-| `Is delivering now`    | Current delivery availability                            |
-| `Price range`          | Restaurant price category                                |
-| `Aggregate rating`     | Overall restaurant rating                                |
-| `Rating color`         | Rating category color                                    |
-| `Rating text`          | Rating category such as Excellent, Very Good, Good, etc. |
-| `Votes`                | Number of votes received                                 |
-
----
 
 ## 🛠️ Technologies Used
 
