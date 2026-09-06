@@ -5,8 +5,8 @@
 Here are some of the visualizations generated during the analysis:
 
 ### 🔹 Cuisine Analysis
+<img width="581" height="527" alt="analysis_1" src="https://github.com/user-attachments/assets/e3b42994-5930-4e2c-bd31-33323f73ae64" />
 
-![Cuisine Analysis](README_images/analysis_1.png)
 
 ### 🔹 City / Restaurant Analysis
 
