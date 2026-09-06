@@ -10,7 +10,8 @@ Here are some of the visualizations generated during the analysis:
 
 ### 🔹 City / Restaurant Analysis
 
-<img width="581" height="454" alt="analysis_2" src="https://github.com/user-attachments/assets/c614465d-9671-4eff-885e-b565b3721df4" />
+<img width="575" height="454" alt="analysis_4" src="https://github.com/user-attachments/assets/8d6a5147-37d9-474a-91b4-028285dab668" />
+
 
 
 ### 🔹 Price Range Analysis
@@ -24,8 +25,6 @@ Here are some of the visualizations generated during the analysis:
 <img width="567" height="454" alt="analysis_3" src="https://github.com/user-attachments/assets/5c489a8a-a6b7-4602-9472-9185f2bdb45f" />
 
 
-### 🔹 Rating Analysis
-C:\Users\Adnan\AppData\Local\Temp\dc9f9677-04a3-4355-a6a6-72caf8f13dc2_restaurant_project_readme_assets.zip.dc2\README_images\analysis_3.png
 
 
 ---
