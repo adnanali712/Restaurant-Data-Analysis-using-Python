@@ -10,19 +10,23 @@ Here are some of the visualizations generated during the analysis:
 
 ### 🔹 City / Restaurant Analysis
 
-![City Analysis](README_images/analysis_2.png)
+<img width="581" height="454" alt="analysis_2" src="https://github.com/user-attachments/assets/c614465d-9671-4eff-885e-b565b3721df4" />
+
 
 ### 🔹 Price Range Analysis
 
-![Price Range Analysis](README_images/analysis_3.png)
+<img width="567" height="454" alt="analysis_3" src="https://github.com/user-attachments/assets/d278cead-35a0-4ddb-8d2a-c072b6a7a9cc" />
+
 
 ### 🔹 Online Delivery Analysis
 
-![Online Delivery Analysis](README_images/analysis_4.png)
+<img width="567" height="454" alt="analysis_3" src="https://github.com/user-attachments/assets/5c489a8a-a6b7-4602-9472-9185f2bdb45f" />
+
 
 ### 🔹 Rating Analysis
 
-![Rating Analysis](README_images/analysis_5.png)
+<img width="705" height="518" alt="analysis_5" src="https://github.com/user-attachments/assets/d9bc2243-e83c-415b-83f8-14310a109bc8" />
+
 
 ---
 
